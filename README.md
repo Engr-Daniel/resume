@@ -1,2 +1,3 @@
 # resume
-A fantastic resume with no coding skill
+A fantastic resume with no coding skills!
+
